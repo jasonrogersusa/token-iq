@@ -321,7 +321,7 @@ export default function Home() {
         <section className="screen intro-screen">
           <div className="intro-copy">
             <div className="kicker"><span>NEW SIMULATION</span><span>EST. 06 MIN</span></div>
-            <h1>How expensive is<br /><em>what you know?</em></h1>
+            <h1>What&apos;s your<br /><em>token IQ?</em></h1>
             <p className="lede">
               Tokens are the hidden unit of AI systems. Prove you can estimate them, pack them,
               order them, and route them under pressure.
